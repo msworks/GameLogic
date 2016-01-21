@@ -1,4 +1,4 @@
 
-/opt/mono/bin/mono ./lib/SlotGameLogicService.exe &
+/opt/mono/bin/mono ./lib/SlotGameLogicService.exe debug &
 
 
